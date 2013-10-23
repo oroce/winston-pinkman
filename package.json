@@ -1,0 +1,32 @@
+{
+  "name": "winston-pinkman",
+  "version": "0.0.1",
+  "description": "Pinkman's version of winston, bitch!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r should test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oroce/winston-pinkman.git"
+  },
+  "keywords": [
+    "winston",
+    "logging",
+    "bitch",
+    "pinkman"
+  ],
+  "author": "oroce <robert@oroszi.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oroce/winston-pinkman/issues"
+  },
+  "dependencies": {
+    "winston": "0.7.x"
+  },
+  "devDependencies": {
+    "should": "~2.0.2",
+    "mocha": "~1.13.0",
+    "winston": "~0.7.2"
+  }
+}

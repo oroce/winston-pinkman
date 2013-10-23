@@ -1,0 +1,11 @@
+{
+	"node": true,
+	"es5": true,
+	"quotmark": "double",
+	"strict": true,
+	"globals": {
+		"it": true,
+		"describe": true,
+		"beforeEach": true
+	}
+}
