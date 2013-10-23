@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/oroce/winston-pinkman/issues"
   },
-  "dependencies": {
+  "peerDependencies": {
     "winston": "0.7.x"
   },
   "devDependencies": {
